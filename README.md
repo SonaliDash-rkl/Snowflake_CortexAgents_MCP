@@ -1,6 +1,6 @@
 # Snowflake Cortex Agents + MCP: Logistics Operations Intelligence
 
-**Built by:** Sonali Dash | MIS Graduate Student, Texas A&M University (Mays Business School)
+**Built by:** Sonali Dash | MIS Graduate Student, Texas A&M University (Mays Business School) | Source: https://github.com/sfc-gh-dbansal/mcp-hol/tree/main
 
 ---
 
